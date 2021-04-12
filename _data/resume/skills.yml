@@ -1,0 +1,31 @@
+- name: Languages
+  skills:
+    - C# and ASP.NET
+    - Python and Django
+    - Java
+    - HTML, CSS, and JavaScript
+    - SQL
+- name: Applications
+  skills:
+    - Microsoft Office Suite
+    - Microsoft Project
+    - Microsoft Visio
+    - Visual Studio
+    - Git
+- name: Operating Systems
+  skills:
+    - Windows
+    - Linux/Unix/BSD
+    - macOS
+- name: Databases
+  skills:
+    - Microsoft SQL Server
+    - Microsoft Access
+    - PostgreSQL
+- name: Technical Writing
+  skills:
+    - Process Definition Documents
+    - Business Requirements
+    - Entity Relationship Diagrams
+    - Gannt Charts
+    - Project Plans
