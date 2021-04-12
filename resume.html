@@ -5,14 +5,14 @@ title: Resume
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-            <h1>Summary</h1>
+            <h2>Summary</h2>
             <p>Soon-to-be graduate from the University of
                 Louisville seeking an entry level
                 development or IT service position with an
                 engaging and growth-focused company.</p>
-            <h1>Technical Skills</h1>
+            <h2>Technical Skills</h2>
             {% for listing in site.data.resume.skills %}
-            <h2>{{ listing.name }}</h2>
+            <h5>{{ listing.name }}</h5>
             <ul>
                 {% for skill in listing.skills %}
                 <li>{{ skill }}</li>
@@ -21,10 +21,10 @@ title: Resume
             {% endfor %}
         </div>
         <div class="col-md-7 offset-md-1">
-            <h1>Education</h1>
+            <h2>Education</h2>
             {% for edu in site.data.resume.education %}
-            <h2>{{ edu.school }} | {{ edu.degree }}</h2>
-            <h3>{{ edu.city}}, {{ edu.state }} ({{ edu.start }} &mdash; {{ edu.end }})</h3>
+            <h5>{{ edu.school }} | {{ edu.degree }}</h5>
+            <h6>{{ edu.city}}, {{ edu.state }} ({{ edu.start }} &mdash; {{ edu.end }})</h6>
             <ul>
                 {% for note in edu.remarks %}
                 <li>{{ note }}</li>
@@ -32,10 +32,10 @@ title: Resume
             </ul>
             {% endfor %}
 
-            <h1>Professional Experience</h1>
+            <h2>Professional Experience</h2>
             {% for job in site.data.resume.professions %}
-            <h2>{{ job.company }} | {{ job.position }} | {{ job.type }}</h2>
-            <h3>{{ job.city}}, {{ job.state }} ({{ job.start }} &mdash; {{ job.end }})</h3>
+            <h5>{{ job.company }} | {{ job.position }} | {{ job.type }}</h5>
+            <h6>{{ job.city}}, {{ job.state }} ({{ job.start }} &mdash; {{ job.end }})</h6>
             <ul>
                 {% for note in job.remarks %}
                 <li>{{ note }}</li>
