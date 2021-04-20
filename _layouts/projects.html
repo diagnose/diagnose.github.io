@@ -5,7 +5,6 @@ layout: default
 <div class="container">
     <h1>{{ page.title }}</h1>
     <p class="lead">{{ page.description }}</p>
-
     <div class="accordion" id="projectAccordion">
         {% for project in site.data.projects[page.datasource] %}
         <div class="card">
@@ -19,11 +18,12 @@ layout: default
       
           <div id="collapse{{ counter }}" class="collapse" aria-labelledby="heading{{ counter }}" data-parent="#projectAccordion">
             <div class="card-body">
-              {{ project.description }}
+              <p>{{ project.description }}</p>
+              <a href="{{ project.link }}" class="btn btn-primary" target="_blank">View Example</a>
             </div>
           </div>
         </div>
         {% assign counter = counter | plus:1 %}
         {% endfor %}
-      </div>
+    </div>
 </div>
