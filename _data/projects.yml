@@ -25,6 +25,11 @@ Programming:
       of other examples available in my GitHub account. This also includes 
       content from the web development courses I took.
     link: https://github.com/sterile/
+  - title: Database Queries and Relationships
+    description: I took a class where we learned about using relational databases. 
+      This document includes queries, results, and the relational diagram between 
+      tables in the database.
+    link: /assets/pdf/sql/code.pdf
 Problem Solving:
   - title: Agrico Case
     description: An example of a case study I did in my capstone 
@@ -78,6 +83,11 @@ Technical Writing:
     description: This document shows my understanding of how networking 
      works in a computer, how IP addresses are assigned, ranges, etc.
     link: /assets/pdf/infrastructure/cpu.pdf
+  - title: Database Structure
+    description: In one of my database classes we reviewed the structure of 
+      relational databases. This document shows the relationships and layouts 
+      of various tables in a database. We used Microsoft Access and SQL Server.
+    link: /assets/pdf/sql/structure.pdf
 Business Writing:
   - title: Old Louisville Report
     description: In my business communication class, we had a group project 
@@ -88,3 +98,14 @@ Business Writing:
       and community impact. Finally, we gave this presentation to the directors
       of Louisville Forward, a group that helps businesses start up.
     link: /assets/pdf/report.pdf
+  - title: Strategic Assessment
+    description: I worked with a food pantry on my university campus to create a 
+      strategic assessment. We reviewed their goals, current IT systems, and issues 
+      that the current systems presents. From there, I made recommendations for how 
+      the organization could improve their IT and better achieve their goals.
+    link: /assets/pdf/assessment.pdf
+Technical Writing:
+  - title: Entity Relationships
+    description: This document shows various relationships between 
+      tables in a database.
+    link: /assets/pdf/sql/relationships.pdf
