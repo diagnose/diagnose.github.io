@@ -77,4 +77,14 @@ Technical Writing:
   - title: Networking
     description: This document shows my understanding of how networking 
      works in a computer, how IP addresses are assigned, ranges, etc.
-    link: /assets/pdf/infrastructure/cpu.pdf  
+    link: /assets/pdf/infrastructure/cpu.pdf
+Business Writing:
+  - title: Old Louisville Report
+    description: In my business communication class, we had a group project 
+      and were tasked with creating a report on an assigned neighborhood in 
+      Louisville, KY. From there, we analyzed what sort of business was 
+      missing from the neighborhood and presented recommendations to 
+      start a business in that area. We investigated properties, economic, 
+      and community impact. Finally, we gave this presentation to the directors
+      of Louisville Forward, a group that helps businesses start up.
+    link: /assets/pdf/report.pdf
