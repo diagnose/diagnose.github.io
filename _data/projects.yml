@@ -113,3 +113,7 @@ Technical Writing:
     description: This file showcases an architecture design of various devices 
       access a web server and ultimately a database server.
     link: /assets/pdf/ba/arch.pdf
+  - title: Class Diagram
+    description: This is a class diagram that was written up for one of our 
+      iterations in an agile project.
+    link: /assets/pdf/ba/class.pdf
