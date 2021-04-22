@@ -109,3 +109,7 @@ Technical Writing:
     description: This document shows various relationships between 
       tables in a database.
     link: /assets/pdf/sql/relationships.pdf
+  - title: Architecture Design
+    description: This file showcases an architecture design of various devices 
+      access a web server and ultimately a database server.
+    link: /assets/pdf/ba/arch.pdf
