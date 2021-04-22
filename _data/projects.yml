@@ -19,6 +19,12 @@ Programming:
      others that used a GUI. This program is one of the more advanced GUI 
      applications I built that has multiple windows and properties.
     link: https://github.com/sterile/user-parcel-view
+  - title: All Other C# Projects
+    description: I did several C# projects in varying sizes. The entry above 
+      is one of the best applications I built in class, but there are plenty
+      of other examples available in my GitHub account. This also includes 
+      content from the web development courses I took.
+    link: https://github.com/sterile/
 Problem Solving:
   - title: Agrico Case
     description: An example of a case study I did in my capstone 
@@ -55,3 +61,20 @@ Problem Solving:
       course where we reviewed management topics and information 
       technology in organizations as a whole.
     link: /assets/pdf/cases/webvan.pdf
+Technical Writing:
+  - title: Windows Command Line
+    description: This document is a collection of labs I did that 
+      involves the Windows command line.
+    link: /assets/pdf/infrastructure/windows.pdf
+  - title: Linux Command Line
+    description: This document is a collection of labs I did that 
+      involves the Linux command line.
+    link: /assets/pdf/infrastructure/linux.pdf
+  - title: CPU and Memory
+    description: This document shows my understanding of how a CPU 
+      and memory function at its most basic level in a computer.
+    link: /assets/pdf/infrastructure/cpu.pdf
+  - title: Networking
+    description: This document shows my understanding of how networking 
+     works in a computer, how IP addresses are assigned, ranges, etc.
+    link: /assets/pdf/infrastructure/cpu.pdf  
