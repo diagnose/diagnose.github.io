@@ -1,0 +1,57 @@
+Programming:
+  - title: Research and Innovation Website
+    description: I took a class that built off of the technical 
+      writings I had done, and me and my team worked to build a 
+      website based off of those writings. We designed a website
+      that ran via ASP.NET and designed the webpages using
+      Bootstrap and a few custom bits of CSS code when needed.
+    link: https://github.com/brandonberney/research-and-innovation/
+  - title: My Portfolio
+    description: This is the website you're currently on! I created
+      this portfolio using Jekyll, a static site designer that uses
+      the liquid templating language. All templating and design was
+      custom made. Bootstrap is used in the background for its grid
+      system and cross-platform compatability.
+    link: https://github.com/brandonberney/brandonberney.github.io/
+  - title: C# GUI Programming
+    description: I took entry and advanced level C# programming courses.
+     We made several programs, some of which used the command line and 
+     others that used a GUI. This program is one of the more advanced GUI 
+     applications I built that has multiple windows and properties.
+    link: https://github.com/sterile/user-parcel-view
+Business Writing:
+  - title: Agrico Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/agrico.pdf
+  - title: Appex Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/appex.pdf
+  - title: Burlington Northern Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/burlington.pdf
+  - title: Connor Formed Metal Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/connor.pdf
+  - title: IRS Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/irs.pdf
+  - title: Symantec Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/symantec.pdf
+  - title: Webvan Case
+    description: An example of a case study I did in my capstone 
+      course where we reviewed management topics and information 
+      technology in organizations as a whole.
+    link: /assets/pdf/cases/webvan.pdf
